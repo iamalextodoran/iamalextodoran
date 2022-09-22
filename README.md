@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alex!
+- 👋 Hi, I’m Alex Todoran!
 - 🔭 I’m currently working on improving the performance of my apps
 - 🌱 I’m currently learning diplomacy
 - 💬 Ask me about mountains
